@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/object_detection/MainActivity.java
+ com.example.object_detection.MainActivity
+com/example/object_detection/BuildConfig.java
+ com.example.object_detection.BuildConfig
